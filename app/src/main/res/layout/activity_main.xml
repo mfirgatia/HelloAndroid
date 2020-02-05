@@ -25,7 +25,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="1831710023"
+        android:text="Praktikum Pemrograman Mobile"
         android:textColor="#0F0F0F"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
